@@ -1,4 +1,4 @@
-# CMPT 1105 Grade Percentage
+# CMPT 1105 | Grade Percentage
 
 ```python
 grade = float(input('Please enter your grade (percentage): '))
